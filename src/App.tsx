@@ -17,7 +17,7 @@ export default App;
 const AppLayout = styled.div``;
 
 const BackgroundImage = styled.img`
-  position: absolute;
+  position: fixed;
   width: 100%;
   height: 100%;
 
@@ -25,7 +25,7 @@ const BackgroundImage = styled.img`
 `;
 
 const Logo = styled.img`
-  position: absolute;
+  position: fixed;
 
   max-height: 300px;
   min-width: 200px;
