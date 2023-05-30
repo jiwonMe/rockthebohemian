@@ -7,7 +7,7 @@ function App() {
   return (
     <AppLayout>
       <Logo src={logoPrepare} alt="logo" />
-      <BackgroundImage src={rtbPrepareImage} alt="background" />;
+      <BackgroundImage src={rtbPrepareImage} alt="background" />
     </AppLayout>
   );
 }
