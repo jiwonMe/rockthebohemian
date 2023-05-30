@@ -27,8 +27,10 @@ const BackgroundImage = styled.img`
 const Logo = styled.img`
   position: absolute;
 
+  max-height: 300px;
   min-width: 200px;
   width: 10%;
+  height: 40%;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
